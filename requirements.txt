@@ -4,8 +4,6 @@ gunicorn
 pandas
 numpy
 scikit-learn
-opencv-python-headless
-face-recognition
 requests
 firebase-admin
 kagglehub
