@@ -1,0 +1,29 @@
+{
+    "SAKTHI ": {
+        "name": "SAKTHI ",
+        "roll_no": "72192424101",
+        "dept": "AI&DS",
+        "age": 21,
+        "email": "svlove0991@gmail.com",
+        "enrollment_date": "2026-03-05",
+        "attendance_count": 6
+    },
+    "VISHATH": {
+        "name": "VISHATH",
+        "roll_no": "721924243249",
+        "dept": "AI&DS",
+        "age": 20,
+        "email": "vishath53@gmail.com",
+        "enrollment_date": "2026-03-06",
+        "attendance_count": 4
+    },
+    "SANANDH": {
+        "name": "SANANDH",
+        "roll_no": "72192424203",
+        "dept": "AI&DS",
+        "age": 19,
+        "email": "sanandhakz@gmail.com",
+        "enrollment_date": "2026-03-06",
+        "attendance_count": 2
+    }
+}

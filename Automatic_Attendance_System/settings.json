@@ -1,0 +1,21 @@
+{
+    "profile": {
+        "admin_name": "BLACK QUEEN",
+        "admin_email": "svlove0991@gmail.com"
+    },
+    "notifications": {
+        "email_alerts": true,
+        "sms_alerts": true,
+        "weekly_reports": true,
+        "audio_alerts": true
+    },
+    "system": {
+        "total_classes": 72,
+        "auto_logout_mins": 10
+    },
+    "firebase": {
+        "enabled": true,
+        "database_url": "https://attendance1448-default-rtdb.asia-southeast1.firebasedatabase.app/",
+        "service_account_path": "serviceAccountKey.json"
+    }
+}
